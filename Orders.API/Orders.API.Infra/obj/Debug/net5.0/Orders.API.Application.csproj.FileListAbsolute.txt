@@ -1,0 +1,15 @@
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\bin\Debug\net5.0\Orders.API.Application.deps.json
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\bin\Debug\net5.0\Orders.API.Application.dll
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\bin\Debug\net5.0\Orders.API.Application.pdb
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\bin\Debug\net5.0\Orders.API.Domain.dll
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\bin\Debug\net5.0\Orders.API.Domain.pdb
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\obj\Debug\net5.0\Orders.API.Application.csproj.AssemblyReference.cache
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\obj\Debug\net5.0\Orders.API.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\obj\Debug\net5.0\Orders.API.Application.AssemblyInfoInputs.cache
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\obj\Debug\net5.0\Orders.API.Application.AssemblyInfo.cs
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\obj\Debug\net5.0\Orders.API.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\obj\Debug\net5.0\Orders.API.Application.csproj.CopyComplete
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\obj\Debug\net5.0\Orders.API.Application.dll
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\obj\Debug\net5.0\refint\Orders.API.Application.dll
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\obj\Debug\net5.0\Orders.API.Application.pdb
+C:\Users\lucas.porcer\Desktop\Orders.API\Orders.API.Infra\obj\Debug\net5.0\ref\Orders.API.Application.dll

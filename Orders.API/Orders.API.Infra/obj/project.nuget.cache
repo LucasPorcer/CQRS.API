@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZfbgxV43rCCoVQexlDHUpsQ1gCR6tssiC0gNkGd0VJ2lHIIvF7vR0dhFMLpkKoIM7hRdTNTnsXkK6Uq7+w0bJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.porcer\\Desktop\\Orders.API\\Orders.API.Infra\\Orders.API.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.porcer\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512",
+    "C:\\Users\\lucas.porcer\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\lucas.porcer\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\lucas.porcer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

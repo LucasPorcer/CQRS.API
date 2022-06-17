@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8afuFWRvX1AfNyH/E0adceSuC/dhi/5FXT7BYBMpkx1uGgcINe9DsNd8+aC2NJ2jaRKxJb5aBE41x5q+lEMw2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.porcer\\Desktop\\Orders.API\\Orders.API.Domain\\Orders.API.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.porcer\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
